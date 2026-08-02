@@ -1,1 +1,2 @@
-# first-repository
+This project is based on a dataset from LendingClub, a peer-to-peer (P2P) finance platform. It has information of 10,000 participants from 2018, with 51 different features, including employment title, home ownership status, and subgrade category.
+After data cleaning and preprocessing, I created a Random Forest regressor with an 80/20 train-test-split to predict the interest rate based on different categorical and numerical features. By using decision trees, I was able to capture complex, non-linear relationships that traditional linear models might not be as effective at.
